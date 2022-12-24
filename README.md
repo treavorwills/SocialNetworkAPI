@@ -11,6 +11,11 @@ My motivation in completing this was to get familiar with non-tabular databases.
 
 Since this exercise did not include a front end, all the routes were tested in Insomnia. A couple of screenshots are included below as well as a video demonstrating various CRUD operations. 
 
+## How it's made
+### Languages: JavaScript ES6+, CSS3, HTML5, SQL, NoSQL
+### Applications: GitHub, MongoDB, MySQL
+### Tools: Express, React, Node, Handlebars, Query, Bootstrap
+
 ### Screenshots and Video
 
 #### [Walkthrough Video](https://drive.google.com/file/d/1scShnZmTI1qIQBhvEnxHMdFgsVJnc9Bp/view)
