@@ -16,7 +16,7 @@ Since this exercise did not include a front end, all the routes were tested in I
 ### Applications: GitHub, MongoDB, MySQL
 ### Tools: Express, React, Node, Handlebars, Query, Bootstrap
 
-### Screenshots and Video
+## Check it out!
 
 #### [Walkthrough Video](https://drive.google.com/file/d/1scShnZmTI1qIQBhvEnxHMdFgsVJnc9Bp/view)
 
